@@ -23,6 +23,6 @@ public class _01_String1 {
     System.out.println(s.endsWith(".")); // 이 문자열로 끝난다면 true 아니면 false
 
 
-    //adsfadsf
+
   }
 }
